@@ -1,0 +1,8 @@
+
+lib/*
+include/*
+
+*.o
+*.a
+*.so
+*.exe
